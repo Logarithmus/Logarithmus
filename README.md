@@ -2,7 +2,7 @@
 
 [My resume in PDF](https://github.com/Logarithmus/resume/releases/latest/download/resume-en.pdf)
 
-[Resume LaTeX sources](https://github.com/Logarithmus/resume/releases/latest/download/resume-en.pdf)
+[Resume LaTeX sources](https://github.com/Logarithmus/resume)
 
 <!--
 **Logarithmus/Logarithmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
