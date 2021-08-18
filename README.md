@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [My resume in PDF](https://github.com/Logarithmus/resume/releases/latest/download/resume-en.pdf)
+
 [Resume LaTeX sources](https://github.com/Logarithmus/resume/releases/latest/download/resume-en.pdf)
 
 <!--
