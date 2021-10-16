@@ -4,6 +4,8 @@
 
 [Resume LaTeX sources](https://github.com/Logarithmus/resume)
 
+[![FSF Associate member since October 2021](https://static.fsf.org/nosvn/associate/crm/5695012.png)](https://fsf.org/)
+
 <!--
 **Logarithmus/Logarithmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
